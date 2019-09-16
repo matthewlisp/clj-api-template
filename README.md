@@ -1,10 +1,11 @@
-# app
+# Clojure api template
 
-A Clojure library designed to ... well, that part is up to you.
-
+This is an api template/example i've made for a [guide at my blog](http://matthewlisp.com/set-up-clojure-api/).
 ## Usage
 
-FIXME
+Simply execute 'lein run' to verify everything is working.
+
+Use this code as a template to continue writing your own API.
 
 ## License
 
