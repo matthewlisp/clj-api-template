@@ -7,7 +7,7 @@ Simply execute
 ```
 lein run
 ```
-Verify everything is working at [localhost:3000](localhost:3000).
+Verify everything is working at [localhost:3000](http://localhost:3000).
 
 Use this code as a template to continue writing your own API or debug your own code as you follow the guide.
 
