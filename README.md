@@ -3,9 +3,13 @@
 This is an api template/example i've made for a [guide at my blog](http://matthewlisp.com/set-up-clojure-api/).
 ## Usage
 
-Simply execute 'lein run' to verify everything is working.
+Simply execute 
+```
+lein run
+```
+Verify everything is working at [localhost:3000](localhost:3000).
 
-Use this code as a template to continue writing your own API.
+Use this code as a template to continue writing your own API or debug your own code as you follow the guide.
 
 ## License
 
