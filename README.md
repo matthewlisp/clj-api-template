@@ -1,13 +1,16 @@
 # Clojure api template
 
-This is an api template/example i've made for a [guide at my blog](http://matthewlisp.com/set-up-clojure-api/).
+This is an api template/example i've made for a ~~guide at my blog (http://matthewlisp.com/set-up-clojure-api/)~~ 
+
+https://github.com/matthewlisp/matthewlisp.github.io/blob/master/_posts/2019-09-16-set-up-clojure-api.md. 
+
 ## Usage
 
 Simply execute 
 ```
 lein run
 ```
-Verify everything is working at [localhost:3000](http://localhost:3000)
+Verify everything is working at [localhost:3000](http://localhost:3000) 
 
 Use this code as a template to continue writing your own API or debug your own code as you follow the guide.
 
